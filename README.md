@@ -30,8 +30,8 @@ Aqui está uma visão rápida da estrutura de diretórios do projeto:
 
 ```
 portfolio-gabriel/
-├── public/
-│   └── index.html
+├── index.html
+│
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -42,7 +42,7 @@ portfolio-gabriel/
 │   ├── App.vue
 │   ├── main.js
 │   └── router.js
-└── package.json
+└── readme.md
 ```
 
 ### Componentes
