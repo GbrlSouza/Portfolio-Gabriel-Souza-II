@@ -30,6 +30,7 @@ Aqui está uma visão rápida da estrutura de diretórios do projeto:
 
 ```
 portfolio-gabriel/
+|
 ├── index.html
 │
 ├── src/
